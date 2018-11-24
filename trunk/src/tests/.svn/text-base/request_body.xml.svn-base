@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<request>
+	 <event>callhangup</event>
+	<callid>a1sr4ndf338</callid>
+	<accountid>accountId01</accountid>
+	<appid>app01</appid>
+	<calltype>0</calltype>
+	<callertype>0</callertype>
+	<caller>60000000000017</caller>
+	<calledtype>1</calledtype>
+	<called>18675548008</called>
+	<starttime>2014-06-16 16:47:28</starttime>
+	<stoptime>2014-06-16 17:26:32</stoptime>
+	<length>2344</length>
+	<reason>10003</reason>
+</request>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<me>
+	<array>1</array>
+	<array>2</array>
+	<array>3</array>
+	<boolean>true</boolean>
+	<null />
+	<number>123</number>
+	<object>
+		<a>b</a>
+		<c>d</c>
+		<e>f</e>
+	</object>
+	<string>Hello World</string>
+</me>
